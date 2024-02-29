@@ -15,4 +15,4 @@ tar -xvzf geckodriver*
 chmod +x geckodriver
 sudo mv geckodriver /usr/local/bin/
 #running the scrape.py file
-python3 scrape.py
+python3 scrapeNaukri.py
